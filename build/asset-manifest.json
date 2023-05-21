@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9d73c6c.css",
+    "main.js": "/static/js/main.6631bc05.js",
+    "static/media/gas-station-svgrepo-com.png": "/static/media/gas-station-svgrepo-com.fe9b2a3a20f8dfbb2bab.png",
+    "static/media/chart-graphic-svgrepo-com.png": "/static/media/chart-graphic-svgrepo-com.be3ad413e82087857b55.png",
+    "static/media/bars-chart-stand-svgrepo-com.png": "/static/media/bars-chart-stand-svgrepo-com.2dbd2f61b2bfb94aa3e0.png",
+    "static/media/laptop-document-svgrepo-com (1).png": "/static/media/laptop-document-svgrepo-com (1).2b29eb89ebcac8d039d5.png",
+    "static/media/chart-bar-chart-svgrepo-com.png": "/static/media/chart-bar-chart-svgrepo-com.dc61ab4201c54901d9d0.png",
+    "static/media/chart-ratings-svgrepo-com.png": "/static/media/chart-ratings-svgrepo-com.fda6fbb1d1e2a5d76a7a.png",
+    "static/media/arrow-right-svgrepo-com.png": "/static/media/arrow-right-svgrepo-com.817a0c043dd6db1f673f.png",
+    "static/media/Animated Shape-2.svg": "/static/media/Animated Shape-2.b4630d08fc33a5746510.svg",
+    "index.html": "/index.html",
+    "main.b9d73c6c.css.map": "/static/css/main.b9d73c6c.css.map",
+    "main.6631bc05.js.map": "/static/js/main.6631bc05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9d73c6c.css",
+    "static/js/main.6631bc05.js"
+  ]
+}
